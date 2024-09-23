@@ -16,3 +16,6 @@ Repo for Implementation Pylint and Black in FastAPI
 
 ## Ejecutar Pylint
 - Ejecutar `pylint app/` para analizar la calidad del código.
+
+## Ejecutar Black
+- Ejecutar `black app/` para formatear el código.
